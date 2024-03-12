@@ -1,0 +1,11 @@
+{
+  "main": "my-second-demo.raml",
+  "name": "My-second-demo",
+  "classifier": "raml",
+  "apiVersion": "v1",
+  "descriptorVersion": "1.0.0",
+  "assetId": "my-second-demo",
+  "version": "1.0.0",
+  "groupId": "200725ff-bd6c-471c-b424-453326f4bf70",
+  "organizationId": "200725ff-bd6c-471c-b424-453326f4bf70"
+}
